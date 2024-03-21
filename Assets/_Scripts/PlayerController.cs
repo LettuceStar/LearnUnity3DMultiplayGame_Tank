@@ -67,7 +67,7 @@ public class PlayerController : MonoBehaviour
 
         // move the car forward based on the vertical
         this.transform.Translate(Vector3.forward * Time.deltaTime * forwardSpeed * verticaInput);
-
+        
         // move the car slide based on the horizontal
         //this.transform.Translate(Vector3.right * Time.deltaTime * rotateSpedd * horizontalInput);
 
