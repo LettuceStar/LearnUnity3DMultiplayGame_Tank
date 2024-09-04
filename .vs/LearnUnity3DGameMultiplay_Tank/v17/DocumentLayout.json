@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dong\\Code\\UnityProject\\LearnUnity3DGameMultiplay_Tank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7A2EF1-7178-6B12-CABB-5F7E41BD141C}|Assembly-CSharp.csproj|e:\\dong\\code\\unityproject\\learnunity3dgamemultiplay_tank\\assets\\_scripts\\objectsswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7A2EF1-7178-6B12-CABB-5F7E41BD141C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\objectsswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7A2EF1-7178-6B12-CABB-5F7E41BD141C}|Assembly-CSharp.csproj|e:\\dong\\code\\unityproject\\learnunity3dgamemultiplay_tank\\assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7A2EF1-7178-6B12-CABB-5F7E41BD141C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7A2EF1-7178-6B12-CABB-5F7E41BD141C}|Assembly-CSharp.csproj|e:\\dong\\code\\unityproject\\learnunity3dgamemultiplay_tank\\assets\\_scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7A2EF1-7178-6B12-CABB-5F7E41BD141C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectsSwitcher.cs",
+              "DocumentMoniker": "E:\\Dong\\Code\\UnityProject\\LearnUnity3DGameMultiplay_Tank\\Assets\\_Scripts\\ObjectsSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ObjectsSwitcher.cs",
+              "ToolTip": "E:\\Dong\\Code\\UnityProject\\LearnUnity3DGameMultiplay_Tank\\Assets\\_Scripts\\ObjectsSwitcher.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ObjectsSwitcher.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:18:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Dong\\Code\\UnityProject\\LearnUnity3DGameMultiplay_Tank\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\Dong\\Code\\UnityProject\\LearnUnity3DGameMultiplay_Tank\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:18:49.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "E:\\Dong\\Code\\UnityProject\\LearnUnity3DGameMultiplay_Tank\\Assets\\_Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\EnemyController.cs",
+              "ToolTip": "E:\\Dong\\Code\\UnityProject\\LearnUnity3DGameMultiplay_Tank\\Assets\\_Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:18:39.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
